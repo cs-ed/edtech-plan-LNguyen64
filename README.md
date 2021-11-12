@@ -2,8 +2,11 @@
 # Educational Technology Plan
 
 The purpose of the Educational Technology Plan is to ensure that all aspects of the instruction of AP Computer Science Principles at Garey High School have been explored and planned. As a result, the plan will enable the teacher to support their students to be successful.
-## Course
-## Context
+
+### Course
+
+Describe your course including the name, description, and grade level
+
 ### AP Computer Science Principles ###
 This course is an introductory college-level computing course. Students will learn the following:
 * Design and evaluate solutions.
@@ -12,6 +15,7 @@ This course is an introductory college-level computing course. Students will lea
 * Use data to discover new knowledge.
 * Explain how computing innovations and computing systems - including the internet - work.
 * Explore the internet potential impacts and contribute to a computing culture
+
 ### Garey High School
 
 
@@ -37,9 +41,7 @@ This course is an introductory college-level computing course. Students will lea
 
 
 
-### Course
 
-Describe your course including the name, description, and grade level
 
 ### Situation
 
@@ -51,30 +53,34 @@ context of your class, considering demographic and technical resources?
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
-* Google Classroom as a learning management system
-* I 
+All software requires an internet connection:
+* Google Apps for Education
+* * Students will use the suite of Google Apps to do a variety of work, including submitting assignments, taking notes, and working collaboratively.
+* Zangle (Q)
+* * The Zangle (Q) database is used by the instructor to take daily attendance and keep the gradebook for the class. Students and parents may access Zangle (Q) to check their attendance and see their grade in the gradebook.
+
 
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
+### Computer Lab (35 Student Stations + 1 Teacher Station)
 
-Student Devices (One-to-One)
+
+
+### Student Devices (One-to-One)
 * ASUS Chromebook C204 (1-1 Student Device)
-* Processor
-* Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
-Memory
-4GB LPDDR4 on board, 4G LPDDR4
-*Graphics
-Intel UHD Graphics 600
-Input/Output
-11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit
-720p HD camera
-Wireless
-Wi-Fi 5(802.11ac)+BT5.0 (Dual band) 2*2
+* * Processor
+* * * Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
+* * Memory
+* * * 4GB LPDDR4 on board, 4G LPDDR4
+* * Graphics
+* * * Intel UHD Graphics 600
+* * Input/Output
+* * * 11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit
+* * * 720p HD camera
+*  * Wireless
+* * * ??
 
 ### Application
 
