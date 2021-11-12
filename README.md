@@ -22,6 +22,8 @@ context of your class, considering demographic and technical resources?
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
+* Google Classroom as a learning management system
+* I 
 
 ### Hardware Specifications
 
