@@ -4,6 +4,14 @@
 Provide a brief description of the purpose of your educational technology Plan
 
 ## Context
+### AP Computer Science Principles ###
+This course is an introductory college-level computing course. Students will learn the following:
+* Design and evaluate solutions.
+* Apply computer science to solve problems through the development of algorithms and programs.
+* Incorporate abstraction into programs.
+* Use data to discover new knowledge.
+* Explain how computing innovations and computing systems - including the internet - work.
+* Explore the internet potential impacts and contribute to a computing culture
 
 ### Course
 
