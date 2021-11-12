@@ -30,6 +30,20 @@ installed as well as any online services.
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
 
+Student Devices (One-to-One)
+* ASUS Chromebook C204 (1-1 Student Device)
+* Processor
+* Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
+Memory
+4GB LPDDR4 on board, 4G LPDDR4
+*Graphics
+Intel UHD Graphics 600
+Input/Output
+11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit
+720p HD camera
+Wireless
+Wi-Fi 5(802.11ac)+BT5.0 (Dual band) 2*2
+
 ### Application
 
 Describe how you will use the above technologies in the class, including
