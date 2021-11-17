@@ -18,7 +18,7 @@ This course is an introductory college-level computing course. Students will lea
 * Explore the internet potential impacts and contribute to a computing culture
 
 ### Garey High School
-Garey High School is one of six comprehensive high schools in the Pomona Unified School District or PUSD. It is located 30 miles east of downtown Los Angeles, and is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School serves approximately 1,700 students and 
+Garey High School is one of eight comprehensive high schools in the Pomona Unified School District or PUSD. Locating 30 miles east of downtown Los Angeles, PUSD is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School serves approximately 1,700 students and 
 
 #### School Demographics by Ethnicity:
 * Hispanic/Latino - 95%
@@ -49,8 +49,11 @@ context of your class, considering demographic and technical resources?
 
 ### Software Specifications
 
-All software requires an internet connection:
-* Google Apps for Education
+* Google Suite for Education
+* Scratch.mit.edu
+* Code.org
+* Peardeck.com
+* Edpuzzle.com
 * * Students will use the suite of Google Apps to do a variety of work, including submitting assignments, taking notes, and working collaboratively.
 * Zangle (Q)
 * * The Zangle (Q) database is used by the instructor to take daily attendance and keep the gradebook for the class. Students and parents may access Zangle (Q) to check their attendance and see their grade in the gradebook.
@@ -58,14 +61,16 @@ All software requires an internet connection:
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+{Describe the hardware requirements for your class. Provide specific requirements
+wherever necessary.}
+
+S
 ### Computer Lab (35 Student Stations + 1 Teacher Station)
 
 
 
 ### Student Devices (One-to-One)
-* ASUS Chromebook C204 (1-1 Student Device)
+* Acer Chromebook Spin 511 (1-1 Student Device)
 * * Processor
 * * * Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
 * * Memory
@@ -84,6 +89,8 @@ wherever necessary.
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
 
+Pomona Unified School District relies on Google to
+Code.org 
 
 ### Impacts
 
