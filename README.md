@@ -3,11 +3,9 @@
 
 The purpose of the Educational Technology Plan is to ensure that all aspects of the instruction of AP Computer Science Principles at Garey High School have been explored and planned. As a result, the plan will enable the teacher to support their students to be successful.
 
+## Context
 ### Course
-
-Describe your course including the name, description, and grade level
-
-### AP Computer Science Principles ###
+#### AP Computer Science Principles ###
 This course is an introductory college-level computing course. Students will learn the following:
 * Design and evaluate solutions.
 * Apply computer science to solve problems through the development of algorithms and programs.
@@ -17,33 +15,28 @@ This course is an introductory college-level computing course. Students will lea
 * Explore the internet potential impacts and contribute to a computing culture
 
 ### Garey High School
-
-
-
+Garey High School is one of six comprehensive high schools in the Pomona Unified School District or PUSD. It is located 30 miles east of downtown Los Angeles, and is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School serves approximately 1,700 students and 
 
 #### School Demographics by Ethnicity:
-* Hispanic/Latino -
-* White -
-* Asian -
-* African American -
-* Pacific Islander -
-* American Indian -
+* Hispanic/Latino - 95%
+* Asian - 1.8%%
+* African American - 1.8%
+* White - 0.6%
+* Filipino - 0.3%
+* Pacific Islander - 0.1%
+* American Indian - 0.1%
+* Two or More Races - 0.1%
 
-####School Demographics by Student Group:
-* Socio-Economically Disadvantaged (Title I) -
-* English Lerners -
-* Foster Youth -
-* Special Education 
-* Homeless Youth -
-
-
-
-
-
-
-
+#### School Demographics by Student Group:
+* Socio-Economically Disadvantaged (Title I) - 96%
+* English Learners - 22.6%
+* Homeless Youth - 11.8%
+* Students with Disabilities - 9.6% 
+* Foster Youth - 1%
 
 ### Situation
+
+PUSD 
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
