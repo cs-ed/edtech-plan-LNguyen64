@@ -7,6 +7,8 @@ The purpose of the Educational Technology Plan is to ensure that all aspects of 
 ## Context
 ### Course
 #### AP Computer Science Principles ###
+{Describe your course including the name, description, and grade level}
+
 This course is an introductory college-level computing course. Students will learn the following:
 * Design and evaluate solutions.
 * Apply computer science to solve problems through the development of algorithms and programs.
