@@ -18,7 +18,7 @@ This course is an introductory college-level computing course. Students will lea
 This course is offered as a third year math course for students to take after completing Integrated Math 1 and Integrated Math II during their Freshman and Sophomore years. This course will be offered to Juniors and Seniors and prepare them to take the AP Computer Science Principles exam.
 
 ### Garey High School
-Garey High School is one of eight comprehensive high schools in the Pomona Unified School District (PUSD). Locating 30 miles east of downtown Los Angeles, PUSD is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School serves approximately 1,700 students and school's demographics are listed below:
+Garey High School is one of eight comprehensive high schools in the Pomona Unified School District (PUSD). Locating 30 miles east of downtown Los Angeles, PUSD is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School;s student population is approximately 1,700 students and school's demographics are listed below:
 
 #### School Demographics by Ethnicity:
 * Hispanic/Latino - 95%
