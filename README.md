@@ -53,9 +53,12 @@ PUSD provides every teacher and/or the technology setup in the classroom as list
 * HP Elitebook x360 1030 G8
   * Processor: 8th Gen Intel Core
   * Memory: 16GB (2x8GN)2133Mhz DDR4 Non-ECC
-  * Graphics: 
-  * Input/Output:
-* Viewsonic Viewboard IFP5550-E2 55" Interactive Viewboard Display
+  * Graphics: Intel Iris X
+  * Display: 13.3" FHD (1920x1080) BrightView LED UWVA 400 uslim touchscreen low power
+* Viewsonic Viewboard IFP6550-E2 65" Interactive Viewboard Display
+* Dell 24" P2419H Flat Panel Monitor
+* Dell Multi-Device Wireless Keyboard and Mouse - KM7120W
+* Logitech HD Webcam C270
 
 ### Student Devices (One-to-One)
 * Acer Chromebook Spin 511 (1-1 Student Device)
