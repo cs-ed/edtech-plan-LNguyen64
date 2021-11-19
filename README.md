@@ -49,30 +49,28 @@ One of PUSD's four goals is to prepare students for college and career success. 
 
 ### Hardware Specifications
 PUSD provides every teacher and/or the technology setup in the classroom as listed below:
-*HP Elitebook x360 1030 G8
-**Processor 8th Gen Intel Core
-*Memory
-**16GB (2x8GN)2133Mhz DDR4 Non-ECC
-*Storage
-
-
-* Viewsonic
-* Dell 
-
+* HP Elitebook x360 1030 G8
+  * Processor 8th Gen Intel Core
+  * Memory: 16GB (2x8GN)2133Mhz DDR4 Non-ECC
+  * Storage:
+  * Graphics
+  * Camera
+  * Display
+* Viewsonic Viewboard IFP5550-E2 55" Interactive Viewboard Display
 
 ### Student Devices (One-to-One)
 * Acer Chromebook Spin 511 (1-1 Student Device)
-* * Processor
-* * * Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
-* * Memory
-* * * 4GB LPDDR4 on board, 4G LPDDR4
-* * Graphics
-* * * Intel UHD Graphics 600
-* * Input/Output
-* * * 11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit
-* * * 720p HD camera
-*  * Wireless
-* * * ??
+  * Processor
+    * Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
+  * Memory
+    * 4GB LPDDR4 on board, 4G LPDDR4
+  * Graphics
+    * Intel UHD Graphics 600
+  * Input/Output
+    * 11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit
+    * 720p HD camera
+  * Wireless
+    * ??
 
 ### Application
 
