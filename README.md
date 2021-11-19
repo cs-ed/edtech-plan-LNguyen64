@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6321873&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-The purpose of the Educational Technology Plan is to present an outline of the implementation of AP Computer Science Principles class at Garey High School. As a result, the plan will enable the teacher to support their students to be successful.
+The purpose of the Educational Technology Plan is to present an outline of the implementation of AP Computer Science Principles class at Garey High School. 
 
 ## Context
 ### Course
@@ -39,12 +39,7 @@ Garey High School is one of eight comprehensive high schools in the Pomona Unifi
 
 ### Situation
 
-One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. In addition, 
-
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
-
+One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. However, wi-fi is spotty and   
 
 
 
@@ -57,22 +52,23 @@ context of your class, considering demographic and technical resources?
 * Code.org
 * Peardeck.com
 * Edpuzzle.com
-* Screencasting software
 * Kami
-* Adobe Spark
+* Kahoot
 * Zangle (Q) (Attendance and Gradebook)
 
 
-
-
 ### Hardware Specifications
-PUSD provides every teacher and(or) the technology setup in the classroom as listed below:
+PUSD provides every teacher and/or the technology setup in the classroom as listed below:
 * HP Elitebook x360 1030 G8
 ** Processor
-*** 8th Gen Intel Core i5-
+*** 8th Gen Intel Core i5-6-600(Quad Core 3.3Ghz, 3.9Ghz Turbo, 6MB, w/HD graphics 530)
+** Memory
+*** 16GB (2x8GN)2133Mhz DDR4 Non-ECC
+** Storage
+*** 3.5 1TB (7 200RP
+
 * Viewsonic
 * Dell 
-* Elmo document camera
 
 
 ### Student Devices (One-to-One)
@@ -94,6 +90,8 @@ PUSD provides every teacher and(or) the technology setup in the classroom as lis
 {Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
+Garey High School chooses CODE.org. Per the College Board website:
+> Code.org's AP CSP curriculum resources use engaging, discovery-based approach to address big topics like >how the internet works, big data, and programming apps in JavaScript. The curriculum consists of daily >lesson plans, videos, tutorials, tools, and assessments that cover the AP CSP learning objectives. 
 
 Assessments:
 Students will be assessed 
