@@ -35,7 +35,7 @@ Garey High School is one of eight comprehensive high schools in the Pomona Unifi
 * Foster Youth - 1%
 
 ### Situation
-One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi.  
+One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi. The district does provide hotspots to students, but variety problems with hotspots were reported by students during the  
 
 ## Plan
 ### Software Specifications
