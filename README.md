@@ -91,9 +91,22 @@ PUSD provides every teacher and/or the technology setup in the classroom as list
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
 Garey High School chooses CODE.org. Per the College Board website:
-> Code.org's AP CSP curriculum resources use engaging, discovery-based approach to address big topics like >how the internet works, big data, and programming apps in JavaScript. The curriculum consists of daily >lesson plans, videos, tutorials, tools, and assessments that cover the AP CSP learning objectives. 
+> Code.org's AP CSP curriculum resources use engaging, discovery-based approach to address big topics like how the internet works, big data, and programming apps in JavaScript.  
+The Code.org curriculum conists of daily lesson plans, videos, tutorials, tools and assessments that cover the AP CSP learning objectives. I plan to use Code.org in the following areas:
+### Homework
+Students watch video tutorials from Code.org or the CollegeBoard/AP Daily Videos as homework and complete Video's guided notes at home. Next day, class time is repurposed into a workshop where students inquire about lecture content, test their skills in applying knowledge, and interact in hands-on activities. 
 
-Assessments:
+### Check for Understanding (CFU) via Google Form or Pear Deck
+Results of these CFU's help guide the selection of next day's warm up and class discussion to address any studetn's misconceptions. 
+
+### Daily Warm-Up via Google Form or Pear Deck
+The warm-up is to review the previous's day lesson or to spiral review from prior concepts. In addition, I plan to have the students Think-Write-Pair-Share. This strategy is designed to differentiate instruction by providing students with time and structure for thinking about a given topic, enabling them to formulate individual ideas and share these ideas with a peer.
+
+### In-Class Activities
+
+
+
+### Assessments:
 Students will be assessed 
 
 ### Impacts
@@ -108,6 +121,5 @@ evolving course contexts.}
 ### References
 * Rodriguez, F., Price, K., and Boyer K. (2017). Exploring the Pair Programming Process: Characteristics of Effective Collaboration. *SIGCSE '17: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education*, March, 507-512. https://doi.org/10.1145/3017680.3017748   
 * Code.org: 
-* 
 * College Board. (n.d.). Adopt Ready-to-use Curricula. College Board. Retrieved November 18, 2021
 * https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support
