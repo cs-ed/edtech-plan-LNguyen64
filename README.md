@@ -86,8 +86,6 @@ The goal is students become comfortable reading and modifying programs that use 
 
 **Assessment:** The course materials contain a number of assessment types and opportunities which can be used formatively (to check for understanding) or summatively (for evaluation). For students, the goal of the assessments is to prepare them for the AP exam and performance task. For teachers, the goal is to use assessments to help guide instruction, give feedback to students, and make choices about what to emphasize in lessons.Code Studio includes features that assist the teacher in completing formative and summative assessments: Multiple choice or matching questions related to questions on the chapter summative assessment. Free-response text fields where students may input their answers.Access to student work within the App Lab programming environment and other digital tools and widgets used in the curriculum.
 
-### Daily Warm-Up via Google Form or Pear Deck
-The warm-up is to review the previous's day lesson or to spiral review from prior concepts. In addition, I plan to have the students Think-Write-Pair-Share. This strategy is designed to differentiate instruction by providing students with time and structure for thinking about a given topic, enabling them to formulate individual ideas and share these ideas with a peer.
 
 
 ### Impacts
@@ -101,7 +99,8 @@ evolving course contexts.}
 
 ### References
 * Rodriguez, F., Price, K., and Boyer K. (2017). Exploring the Pair Programming Process: Characteristics of Effective Collaboration. *SIGCSE '17: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education*, March, 507-512. https://doi.org/10.1145/3017680.3017748   
-* Code.org: 
+* Code.org: https://docs.google.com/document/d/1ncil5b0yWAN4LCyOeXwYuNrNKEHtN4nmAd2o-_K5Psw/preview
+* https://docs.google.com/document/d/1ncil5b0yWAN4LCyOeXwYuNrNKEHtN4nmAd2o-_K5Psw/preview
 * College Board. (n.d.). Adopt Ready-to-use Curricula. College Board. Retrieved November 18, 2021
 * https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support
  
