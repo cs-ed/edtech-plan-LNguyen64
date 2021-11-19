@@ -1,12 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6321873&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
-
 The purpose of the Educational Technology Plan is to present an outline of the implementation of AP Computer Science Principles class at Garey High School. 
-
 ## Context
 ### Course
 #### AP Computer Science Principles ###
-
 This course is an introductory college-level computing course. Students will learn the following:
 * Design and evaluate solutions.
 * Apply computer science to solve problems through the development of algorithms and programs.
@@ -38,17 +35,11 @@ Garey High School is one of eight comprehensive high schools in the Pomona Unifi
 * Foster Youth - 1%
 
 ### Situation
-
 One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. However, wi-fi is spotty and   
 
-
-
 ## Plan
-
 ### Software Specifications
-
 * Google Suite for Education
-* Scratch.mit.edu
 * Code.org
 * Peardeck.com
 * Edpuzzle.com
@@ -56,16 +47,14 @@ One of PUSD's four goals is to prepare students for college and career success. 
 * Kahoot
 * Zangle (Q) (Attendance and Gradebook)
 
-
 ### Hardware Specifications
 PUSD provides every teacher and/or the technology setup in the classroom as listed below:
-* HP Elitebook x360 1030 G8
-** Processor
-*** 8th Gen Intel Core i5-6-600(Quad Core 3.3Ghz, 3.9Ghz Turbo, 6MB, w/HD graphics 530)
-** Memory
-*** 16GB (2x8GN)2133Mhz DDR4 Non-ECC
-** Storage
-*** 3.5 1TB (7 200RP
+*HP Elitebook x360 1030 G8
+**Processor 8th Gen Intel Core
+*Memory
+**16GB (2x8GN)2133Mhz DDR4 Non-ECC
+*Storage
+
 
 * Viewsonic
 * Dell 
