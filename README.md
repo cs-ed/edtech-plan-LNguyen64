@@ -108,5 +108,8 @@ evolving course contexts.}
 
 
 ### References
-* Code.org: CS helps students outperform in schook, college, and workplace
-* College Board
+* Rodriguez, F., Price, K., and Boyer K. (2017). Exploring the Pair Programming Process: Characteristics of Effective Collaboration. *SIGCSE '17: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education*, March, 507-512. https://doi.org/10.1145/3017680.3017748   
+* Code.org: 
+* 
+* College Board. (n.d.). Adopt Ready-to-use Curricula. College Board. Retrieved November 18, 2021
+* https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support
