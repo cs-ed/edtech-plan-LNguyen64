@@ -12,7 +12,7 @@ This course is an introductory college-level computing course. Students will lea
 * Explain how computing innovations and computing systems - including the internet - work.
 * Explore the internet potential impacts and contribute to a computing culture
 
-This course is offered as a third year math course for students to take after completing Integrated Math I and Integrated Math II during their Freshman and Sophomore years. This course will be offered to Juniors and Seniors and prepare them to take the AP Computer Science Principles exam.
+Currently, this course is being offered as an elective and no prerequisites are required. The students taking this course range from Sophomores to Seniors.
 
 ### Garey High School
 Garey High School is one of eight comprehensive high schools in the Pomona Unified School District (PUSD). Locating 30 miles east of downtown Los Angeles, PUSD is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School's student population is approximately 1,700 students and school's demographics are listed below:
@@ -35,7 +35,7 @@ Garey High School is one of eight comprehensive high schools in the Pomona Unifi
 * Foster Youth - 1%
 
 ### Situation
-One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi. The district does provide hotspots to students, but variety problems with hotspots were reported by students during the pandemic while using Zoom.   
+One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfitted with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi. The district does provide hotspots to students, but variety problems with hotspots were reported by students during the pandemic while using Zoom.   
 
 ## Plan
 ### Software Specifications
@@ -69,8 +69,8 @@ PUSD provides every teacher and/or the technology setup in the classroom as list
 I plan to use Code.org's Computer Science Principles curriculum because it is adopted by the district. In addition, Code.org also has extensive online teacher resouces such as: 
 * Daily lesson plans: detailed pacing instructions, activity guides, teaching tips and assessment.
 * Teacher Dashboard: check student progress, administer assessments and integrate with Google.
-
-Code.org uses EIPM, a structured approach to teaching programming. Each letter represents a different type of lesson (E - Explore, I - Investigate, P - Practice, M - Make), which are taught in sequence for each major programming concept. It introduces concepts in a scaffolded and approachable way to encourage student collaboration, support independent creation, and clarify the role of the teacher throughout the learning process. The following paragraphs summarizes how the lesson is taught and the student's goal:
+The following is taken from Code.org "A Short Introduction to EIPM": 
+>Code.org uses EIPM, a structured approach to teaching programming. Each letter represents a different type of lesson (E - Explore, I - Investigate, P - Practice, M - Make), which are taught in sequence for each major programming concept. It introduces concepts in a scaffolded and approachable way to encourage student collaboration, support independent creation, and clarify the role of the teacher throughout the learning process. The following paragraphs summarizes how the lesson is taught and the student's goal:
 
 **Explore:** Students explore the new concept through a teacher-led hands-on group activity. Typically uses physical manipulatives. Teacher leads with support of slides and activity guides. The goal is students begin to develop a shared mental model and understand the main ideas of the new concept. 
 
