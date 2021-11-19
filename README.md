@@ -12,10 +12,10 @@ This course is an introductory college-level computing course. Students will lea
 * Explain how computing innovations and computing systems - including the internet - work.
 * Explore the internet potential impacts and contribute to a computing culture
 
-This course is offered as a third year math course for students to take after completing Integrated Math 1 and Integrated Math II during their Freshman and Sophomore years. This course will be offered to Juniors and Seniors and prepare them to take the AP Computer Science Principles exam.
+This course is offered as a third year math course for students to take after completing Integrated Math I and Integrated Math II during their Freshman and Sophomore years. This course will be offered to Juniors and Seniors and prepare them to take the AP Computer Science Principles exam.
 
 ### Garey High School
-Garey High School is one of eight comprehensive high schools in the Pomona Unified School District (PUSD). Locating 30 miles east of downtown Los Angeles, PUSD is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School;s student population is approximately 1,700 students and school's demographics are listed below:
+Garey High School is one of eight comprehensive high schools in the Pomona Unified School District (PUSD). Locating 30 miles east of downtown Los Angeles, PUSD is the third-largest school district in Los Angeles County. PUSD serves approximately 30,000 Pre-K-12 students and 17,000 adult learners at 44 schools in Pomona and Diamond Bar, California. Garey High School's student population is approximately 1,700 students and school's demographics are listed below:
 
 #### School Demographics by Ethnicity:
 * Hispanic/Latino - 95%
@@ -35,7 +35,7 @@ Garey High School is one of eight comprehensive high schools in the Pomona Unifi
 * Foster Youth - 1%
 
 ### Situation
-One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. However, wi-fi is spotty and   
+One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfilled with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi.  
 
 ## Plan
 ### Software Specifications
@@ -45,6 +45,7 @@ One of PUSD's four goals is to prepare students for college and career success. 
 * Edpuzzle.com
 * Kami
 * Kahoot
+* Zoom
 * Zangle (Q) (Attendance and Gradebook)
 
 ### Hardware Specifications
@@ -74,10 +75,11 @@ PUSD provides every teacher and/or the technology setup in the classroom as list
 
 ### Application
 
-{Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
-Garey High School chooses CODE.org. Per the College Board website:
+Code.org is one of the endorsed curricula for AP Computer Science Principles and I plan use Code.org's curriculum for its "engaging, discovery-based approach to address big topics like how the interent works, big data, and programming apps in JavaSCript.
+
+it consists of daily lesson plans, videos, tutorials, tools and assessments that cover the AP CSP learning objectives. 
+
+Per the College Board website:
 > Code.org's AP CSP curriculum resources use engaging, discovery-based approach to address big topics like how the internet works, big data, and programming apps in JavaScript.  
 The Code.org curriculum conists of daily lesson plans, videos, tutorials, tools and assessments that cover the AP CSP learning objectives. I plan to use Code.org in the following areas:
 ### Homework
