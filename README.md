@@ -51,52 +51,36 @@ One of PUSD's four goals is to prepare students for college and career success. 
 ### Hardware Specifications
 PUSD provides every teacher and/or the technology setup in the classroom as listed below:
 * HP Elitebook x360 1030 G8
-  * Processor 8th Gen Intel Core
+  * Processor: 8th Gen Intel Core
   * Memory: 16GB (2x8GN)2133Mhz DDR4 Non-ECC
-  * Storage:
-  * Graphics
-  * Camera
-  * Display
+  * Graphics: 
+  * Input/Output:
 * Viewsonic Viewboard IFP5550-E2 55" Interactive Viewboard Display
 
 ### Student Devices (One-to-One)
 * Acer Chromebook Spin 511 (1-1 Student Device)
-  * Processor
-    * Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
-  * Memory
-    * 4GB LPDDR4 on board, 4G LPDDR4
-  * Graphics
-    * Intel UHD Graphics 600
-  * Input/Output
-    * 11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit
-    * 720p HD camera
+  * Processor: Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
+  * Memory: 4GB LPDDR4 on board, 4G LPDDR4
+  * Graphics: Intel UHD Graphics 600
+  * Input/Output: 11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit and 720p HD camera
   * Wireless
-    * ??
 
 ### Application
+I plan to use Code.org's Computer Science Principles curriculum because it is one of the endorsed curricula for AP Computer Science Principles and its curriculum is "engaging, discovery-based approach to address big topics like how the interent works, big data, and programming apps in JavaSCript." per the AP College Board.
 
-Code.org is one of the endorsed curricula for AP Computer Science Principles and I plan use Code.org's curriculum for its "engaging, discovery-based approach to address big topics like how the interent works, big data, and programming apps in JavaSCript.
+I like its structured approach to teaching programming, for it's designed to meet the needs of diverse learners, encourage collaboration, support independent creation, and clarify the role of the teacher throughout the learning process. The following paragraphs summarize  
+**Explore:** Students explore the new concept through a teacher-led hands-on group activity. Typically uses physical manipulatives. Teacher leads with support of slides and activity guides. The goal is students begin to develop a shared mental model and understand the main ideas of the new concept. 
+**Investigate:** Students investigate two or three sample programs that use the new concept. Close-reading of working programs. Teacher-led discussions. Tasks to modify apps.
+The goal is students become comfortable reading and modifying programs that use the new concept.
+**Practice:** Students practice using the new concept through a scaffolded series of programming activities. Students work independently or in pairs. Teacher introduces debugging practices at the beginning of the Activity and circulates the room during the lesson to provide targeted support. The goal is students gain confidence in writing and debugging programs that use the new concept.
+**Make:**  Students make a target app for which they are given the screen elements but little to no starter code. Students are provided high-level steps to break down the project. Teacher supports students by directing them towards notes, previous work, and debugging strategies practiced in earlier lessons. The goal is students are able to independently decide when and how to use the new concept in the context of a larger project.
+**Assessment:** The course materials contain a number of assessment types and opportunities which can be used formatively (to check for understanding) or summatively (for evaluation). For students, the goal of the assessments is to prepare them for the AP exam and performance task. For teachers, the goal is to use assessments to help guide instruction, give feedback to students, and make choices about what to emphasize in lessons.Code Studio includes features that assist the teacher in completing formative and summative assessments: Multiple choice or matching questions related to questions on the chapter summative assessment. Free-response text fields where students may input their answers.Access to student work within the App Lab programming environment and other digital tools and widgets used in the curriculum.
 
-it consists of daily lesson plans, videos, tutorials, tools and assessments that cover the AP CSP learning objectives. 
 
-Per the College Board website:
-> Code.org's AP CSP curriculum resources use engaging, discovery-based approach to address big topics like how the internet works, big data, and programming apps in JavaScript.  
-The Code.org curriculum conists of daily lesson plans, videos, tutorials, tools and assessments that cover the AP CSP learning objectives. I plan to use Code.org in the following areas:
-### Homework
-Students watch video tutorials from Code.org or the CollegeBoard/AP Daily Videos as homework and complete Video's guided notes at home. Next day, class time is repurposed into a workshop where students inquire about lecture content, test their skills in applying knowledge, and interact in hands-on activities. 
-
-### Check for Understanding (CFU) via Google Form or Pear Deck
-Results of these CFU's help guide the selection of next day's warm up and class discussion to address any studetn's misconceptions. 
 
 ### Daily Warm-Up via Google Form or Pear Deck
 The warm-up is to review the previous's day lesson or to spiral review from prior concepts. In addition, I plan to have the students Think-Write-Pair-Share. This strategy is designed to differentiate instruction by providing students with time and structure for thinking about a given topic, enabling them to formulate individual ideas and share these ideas with a peer.
 
-### In-Class Activities
-
-
-
-### Assessments:
-Students will be assessed 
 
 ### Impacts
 
@@ -112,3 +96,4 @@ evolving course contexts.}
 * Code.org: 
 * College Board. (n.d.). Adopt Ready-to-use Curricula. College Board. Retrieved November 18, 2021
 * https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support
+ 
