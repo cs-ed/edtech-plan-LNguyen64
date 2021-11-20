@@ -35,7 +35,7 @@ Garey High School is one of eight comprehensive high schools in the Pomona Unifi
 * Foster Youth - 1%
 
 ### Situation
-One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfitted with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi. The district does provide hotspots to students, but variety problems with hotspots were reported by students during the pandemic while using Zoom. One of the courses Freshmen are required to take is one semester of Technology for the 21st Century. In this course, students are introduced to keyboarding skills, the Internet, coding in Scratch, video editing and artificial intelligence. After completing this course, students may take AP Computer Science Principles (APCSP) as an elective. However, not many students are interested in signing up for the class; consequently, time andOne the problems could be APCSP   
+One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfitted with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi. The district does provide hotspots to students, but variety problems with hotspots were reported by students during the pandemic while using Zoom. One of the courses Freshmen are required to take is one semester of Technology for the 21st Century. In this course, students are introduced to keyboarding skills, the Internet, coding in Scratch, video editing and artificial intelligence. After completing this course, students may take AP Computer Science Principles (APCSP) as an elective. However, not many students are interested in signing up for the class. One of the problems could be students do not know about the course since APCSP has been offered for the past four years. It’s usually one section and class size ranges from 15 to 20 students. 
 
 ## Plan
 ### Software Specifications
@@ -86,20 +86,16 @@ The goal is students become comfortable reading and modifying programs that use 
 
 **Assessment:** The course materials contain a number of assessment types and opportunities which can be used formatively (to check for understanding) or summatively (for evaluation). For students, the goal of the assessments is to prepare them for the AP exam and performance task. For teachers, the goal is to use assessments to help guide instruction, give feedback to students, and make choices about what to emphasize in lessons.Code Studio includes features that assist the teacher in completing formative and summative assessments: Multiple choice or matching questions related to questions on the chapter summative assessment. Free-response text fields where students may input their answers.Access to student work within the App Lab programming environment and other digital tools and widgets used in the curriculum.
 
-
-
 ### Impacts
+Nowadays, the technology and human life cannot be separated. We rely so much on technology that it becomes an integral part of our lives. Computer science (CS) is an important element in strengthening existing education models and preparing students for the future. However, there is a lack of interest in CS education. One reason may be that learning CS comes with a fair amount of social stigma for students. This stigma could be attributed to the commonly held belief that CS is a male-oriented field that involves social isolation and a focus on machinery rather than people (Cheryan et al. 2015).  
 
-{How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.}
 
 
 
 
 
 ### References
+* Cheryan, S., Czopp, A., Kay, A. (2015). Positive Stereotypes Are Pervasive and Powerful. *Association for Psychological Science*. July 23, 2015, 451 - 463. 
 * Rodriguez, F., Price, K., and Boyer K. (2017). Exploring the Pair Programming Process: Characteristics of Effective Collaboration. *SIGCSE '17: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education*, March, 507-512. https://doi.org/10.1145/3017680.3017748   
 * Code.org: https://docs.google.com/document/d/1ncil5b0yWAN4LCyOeXwYuNrNKEHtN4nmAd2o-_K5Psw/preview
 * College Board. (n.d.). Adopt Ready-to-use Curricula. College Board. Retrieved November 18, 2021
