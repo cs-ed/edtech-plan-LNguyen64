@@ -35,7 +35,7 @@ Garey High School is one of eight comprehensive high schools in the Pomona Unifi
 * Foster Youth - 1%
 
 ### Situation
-One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfitted with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi. The district does provide hotspots to students, but variety problems with hotspots were reported by students during the pandemic while using Zoom.   
+One of PUSD's four goals is to prepare students for college and career success. Therefore, every student is provided with a Chromebook. Every school site is outfitted with wireless access points in each classroom and most of the common areas. However, Wi-Fi problems are prevalent throughout the campus, such as slow or no internet access in certain buildings on campus, connections drop at random times, or student's device can't connect to the Wi-Fi. The district does provide hotspots to students, but variety problems with hotspots were reported by students during the pandemic while using Zoom. One of the courses Freshmen are required to take is one semester of Technology for the 21st Century. In this course, students are introduced to keyboarding skills, the Internet, coding in Scratch, video editing and artificial intelligence. After completing this course, students may take AP Computer Science Principles as an elective. Because APCSP  has been offered for the past four years. The class has been Class size ranges from 15 to 20 students, and I am not sure if the     
 
 ## Plan
 ### Software Specifications
@@ -94,7 +94,9 @@ The goal is students become comfortable reading and modifying programs that use 
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.}
-{After listing the technical details of the plan, you will explain how you will use the technology in the Application subsection. For example, in a programming course, you will explain that students will use their IDE (which should be listed in the software) to code and run their programs but you will also describe how they will turn in the assignments and how you will grade them and give students feedback. This is also where you will describe any of the evidence-based practices you plan to adopt and how technology will support them (e.g. describing how you will apply the coherence principle to designing PowerPoint presentation slides that will be projected for lessons, and how students will share their computers to practice pair programming), as discussed in the modules on eLearning Principles and Computing Practices & Pedagogy.}
+
+
+
 
 
 ### References
