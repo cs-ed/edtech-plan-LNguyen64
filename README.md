@@ -64,6 +64,7 @@ PUSD provides every teacher and/or the technology setup in the classroom as list
 * Acer Chromebook Spin 511 (1-1 Student Device)
   * Processor: Intel Celeron N4000 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
   * Memory: 4GB LPDDR4 on board, 4G LPDDR4
+  * Storage: 32GB
   * Graphics: Intel UHD Graphics 600
   * Input/Output: 11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit and 720p HD camera
   * Wireless
