@@ -88,32 +88,34 @@ The goal is students become comfortable reading and modifying programs that use 
 >**Assessment:** The course materials contain a number of assessment types and opportunities which can be used formatively (to check for understanding) or summatively (for evaluation). For students, the goal of the assessments is to prepare them for the AP exam and performance task. For teachers, the goal is to use assessments to help guide instruction, give feedback to students, and make choices about what to emphasize in lessons.
 
 In my day-to-day actitivies would include the following:
-**Warm Up (Peardeck or Google Form)
+
+**Warm Up (Peardeck or Google Form)**
 * Warm up is displayed on the Viewsonic.
 * Students write their response in Peardeck or Google Form.
 * Students share their answers with their partners.
 * Teacher uses equity cards to call on students to share with the whole class. 
 * Teacher summarizes the important point or concept.  
 
-**Video Tutorials (Code.org, Edpuzzle or AP Classroom)
+**Video Tutorials (Code.org, Edpuzzle or AP Classroom)**
 * Play video that pertains to the topic of the day for the class on the Viewsonic
 * Students use Kami to complete guided notes while watching.
 * Students check notes with their partners.
 * Class discussion of the notes to ensure correctness and to clarify any confusion. 
 
-**Examples & Coding Exercises (Code.org)
+**Examples & Coding Exercises (Code.org)**
 * Each lesson in Code.org has an example of specific types of coding.
 * Teacher will explain and elaborate the example before students complete coding exercises within Code.org.
 * Teacher will circulate the room and provide help as needed.
 
-**Collaborative Programming/Pair Programming (Code.org)
+**Collaborative Programming/Pair Programming (Code.org)**
 * Students work with their partner to complete a small coding problem
 * One student is the driver, who uses the keyboard, mouse or touchscreen and controlling the main actions of the computer. The driver focuses on the details.
 * The second student is the navigator, who helps the driver by answering driver's questions and pointing out potential problems or mistakes. The navigator focuses on the big picture or general algorithm.
 * Teacher should have students switch roles when writing a different coding problem.
 
-**Daily Quiz (Google Form)
+**Daily Quiz (Google Form)**
 * Have students answer one question pertains to previous covered topics at the end of period about 5 - 7 minutes before the bell. 
+* Next day go over any common misconceptions.
 
 ### Impacts
 Nowadays, the technology and human life cannot be separated. We rely so much on technology that it becomes an integral part of our lives. Computer science (CS) is an important element in strengthening existing education models and preparing students for the future. However, there is a lack of interest in CS education. One reason may be that learning CS comes with a fair amount of social stigma for students. This stigma could be attributed to the commonly held belief that CS is a male-oriented field that involves social isolation and a focus on machinery rather than people (Cheryan et al. 2015).
