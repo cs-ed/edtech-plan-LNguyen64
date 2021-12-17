@@ -76,18 +76,21 @@ I plan to use Code.org's Computer Science Principles curriculum because it is ad
 The following is taken from Code.org "A Short Introduction to EIPM": 
 >Code.org uses EIPM, a structured approach to teaching programming. Each letter represents a different type of lesson (E - Explore, I - Investigate, P - Practice, M - Make), which are taught in sequence for each major programming concept. It introduces concepts in a scaffolded and approachable way to encourage student collaboration, support independent creation, and clarify the role of the teacher throughout the learning process. The following paragraphs summarizes how the lesson is taught and the student's goal:
 
-**Explore:** Students explore the new concept through a teacher-led hands-on group activity. Typically uses physical manipulatives. Teacher leads with support of slides and activity guides. The goal is students begin to develop a shared mental model and understand the main ideas of the new concept. 
+**Explore:** Students explore the new concept through a teacher-led hands-on group activity. Teacher leads with support of slides and activity guides. The goal is students begin to develop a shared mental model and understand the main ideas of the new concept. 
+
+** Peer Instruction (Peardeck or Google Form)
+?????
 
 **Investigate:** Students investigate two or three sample programs that use the new concept. Close-reading of working programs. Teacher-led discussions. Tasks to modify apps.
 The goal is students become comfortable reading and modifying programs that use the new concept.
 
 **Practice:** Students practice using the new concept through a scaffolded series of programming activities. Students work independently or in pairs. Teacher introduces debugging practices at the beginning of the Activity and circulates the room during the lesson to provide targeted support. The goal is students gain confidence in writing and debugging programs that use the new concept.
 
-Pair Programming
-
 **Make:**  Students make a target app for which they are given the screen elements but little to no starter code. Students are provided high-level steps to break down the project. Teacher supports students by directing them towards notes, previous work, and debugging strategies practiced in earlier lessons. The goal is students are able to independently decide when and how to use the new concept in the context of a larger project.
 
-**Assessment:** The course materials contain a number of assessment types and opportunities which can be used formatively (to check for understanding) or summatively (for evaluation). For students, the goal of the assessments is to prepare them for the AP exam and performance task. For teachers, the goal is to use assessments to help guide instruction, give feedback to students, and make choices about what to emphasize in lessons.Code Studio includes features that assist the teacher in completing formative and summative assessments: Multiple choice or matching questions related to questions on the chapter summative assessment. Free-response text fields where students may input their answers. Access to student work within the App Lab programming environment and other digital tools and widgets used in the curriculum.
+**Assessment:** The course materials contain a number of assessment types and opportunities which can be used formatively (to check for understanding) or summatively (for evaluation). For students, the goal of the assessments is to prepare them for the AP exam and performance task. For teachers, the goal is to use assessments to help guide instruction, give feedback to students, and make choices about what to emphasize in lessons.
+
+** Kahoot, Peardeck or Google Form will also be used to check for understanding and address any student's misconceptions or confusions.
 
 ### Impacts
 Nowadays, the technology and human life cannot be separated. We rely so much on technology that it becomes an integral part of our lives. Computer science (CS) is an important element in strengthening existing education models and preparing students for the future. However, there is a lack of interest in CS education. One reason may be that learning CS comes with a fair amount of social stigma for students. This stigma could be attributed to the commonly held belief that CS is a male-oriented field that involves social isolation and a focus on machinery rather than people (Cheryan et al. 2015).
