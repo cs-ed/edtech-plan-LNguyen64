@@ -76,23 +76,44 @@ I plan to use Code.org's Computer Science Principles curriculum because it is ad
 The following is taken from Code.org "A Short Introduction to EIPM": 
 >Code.org uses EIPM, a structured approach to teaching programming. Each letter represents a different type of lesson (E - Explore, I - Investigate, P - Practice, M - Make), which are taught in sequence for each major programming concept. It introduces concepts in a scaffolded and approachable way to encourage student collaboration, support independent creation, and clarify the role of the teacher throughout the learning process. The following paragraphs summarizes how the lesson is taught and the student's goal:
 
->**Explore:** Students explore the new concept through a teacher-led hands-on group activity. Teacher leads with support of slides and activity guides. The goal is students begin to develop a shared mental model and understand the main ideas of the new concept. 
+>**Explore:** Students explore the new concept through a teacher-led hands-on group activity. Teacher leads with support of slides and activity guides. The goal is students begin to develop a shared mental model and understand the main ideas of the new concept.
 
 >**Investigate:** Students investigate two or three sample programs that use the new concept. Close-reading of working programs. Teacher-led discussions. Tasks to modify apps.
 The goal is students become comfortable reading and modifying programs that use the new concept.
 
-**Practice:** Students practice using the new concept through a scaffolded series of programming activities. Students work independently or in pairs. Teacher introduces debugging practices at the beginning of the Activity and circulates the room during the lesson to provide targeted support. The goal is students gain confidence in writing and debugging programs that use the new concept.
+>**Practice:** Students practice using the new concept through a scaffolded series of programming activities. Students work independently or in pairs. Teacher introduces debugging practices at the beginning of the Activity and circulates the room during the lesson to provide targeted support. The goal is students gain confidence in writing and debugging programs that use the new concept.
 
 >**Make:**  Students make a target app for which they are given the screen elements but little to no starter code. Students are provided high-level steps to break down the project. Teacher supports students by directing them towards notes, previous work, and debugging strategies practiced in earlier lessons. The goal is students are able to independently decide when and how to use the new concept in the context of a larger project.
 
 >**Assessment:** The course materials contain a number of assessment types and opportunities which can be used formatively (to check for understanding) or summatively (for evaluation). For students, the goal of the assessments is to prepare them for the AP exam and performance task. For teachers, the goal is to use assessments to help guide instruction, give feedback to students, and make choices about what to emphasize in lessons.
+
 In my day-to-day actitivies would include the following:
-* Daily Warm Up (Peardeck, Google Slides or Google Form)
-**??
-* Video Tutorials (Code.org)
-**??
-* Check for Understanding (Kahoot or Google Form)
-** ??
+### Warm Up (Peardeck or Google Form)
+* Warm up is displayed on the Viewsonic.
+* Students write their response in Peardeck or Google Form.
+* Students share their answers with their partners.
+* Teacher uses equity cards to call on students to share with the whole class. 
+* Teacher summarizes the important point or concept.  
+
+### Video Tutorials (Code.org or AP Classroom)
+* Play video that pertains to the topic of the day for the class on the Viewsonic
+* Students use Kami to complete guided notes while watching.
+* Students check notes with their partners.
+* Class discussion of the notes to ensure correctness and to clarify any confusion. 
+
+### Examples & Coding Exercises (Code.org)
+* Each lesson in Code.org has an example of specific types of coding.
+* Teacher will explain and elaborate the example before students complete coding exercises within Code.org.
+* Teacher will circulate the room and provide help as needed.
+
+### Collaborative Programming/Pair Programming (Code.org)
+* Students work with their partner to complete a small coding problem
+* One student is the driver, who uses the keyboard, mouse or touchscreen and controlling the main actions of the computer. The driver focuses on the details.
+* The second student is the navigator, who helps the driver by answering driver's questions and pointing out potential problems or mistakes. The navigator focuses on the big picture or general algorithm.
+* Teacher should have students switch roles when writing a different coding problem.
+
+### Check for Understanding (Kahoot or Google Form)
+** 
 
 
 ### Impacts
