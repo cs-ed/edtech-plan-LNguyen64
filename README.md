@@ -89,7 +89,7 @@ The goal is students become comfortable reading and modifying programs that use 
 ### Impacts
 Nowadays, the technology and human life cannot be separated. We rely so much on technology that it becomes an integral part of our lives. Computer science (CS) is an important element in strengthening existing education models and preparing students for the future. However, there is a lack of interest in CS education. One reason may be that learning CS comes with a fair amount of social stigma for students. This stigma could be attributed to the commonly held belief that CS is a male-oriented field that involves social isolation and a focus on machinery rather than people (Cheryan et al. 2015).
 
-During the pandemic and conducting classes via Zoom, I integrated various applications into my lessons. Google Classroom is where students would access and submit their assignments. Students used Kami to annonate notes. English Learners used Google Translate extension to access digital materials in their native language. Pear Deck is very effective in engaging students, providing immediate feedback, and checking for understanding
+During the pandemic and conducting classes via Zoom, I integrated various applications into my lessons. Google Classroom is where students would access and submit their assignments. Students used Kami to annonate notes. English Learners used Google Translate extension to access digital materials in their native language. Pear Deck is very effective in engaging students, providing immediate feedback, and checking for understanding.
 
 ### References
 * Cheryan, S., Czopp, A., Kay, A. (2015). Positive Stereotypes Are Pervasive and Powerful. *Association for Psychological Science*. July 23, 2015, 451 - 463. 
